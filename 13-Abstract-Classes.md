@@ -29,7 +29,7 @@ Author: $author
 Price: $price
 
 ```
-Note: The  is prepended to variable names to indicate they are placeholders for variables.
+Note: The **$**  is prepended to variable names to indicate they are placeholders for variables.
 
 ### Sample Input
 
